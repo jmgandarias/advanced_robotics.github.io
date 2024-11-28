@@ -43,8 +43,8 @@ theme:
 copyright: >
   &copy; <a href="https://www.sheffield.ac.uk/engineering/diamond-engineering/our-staff/tom-howard">Tom Howard</a>, The University of Sheffield, 2024 (License: <a href="https://creativecommons.org/licenses/by-nc/4.0/">CC BY-NC</a>)<br />
   <a href="#__consent">Change cookie settings</a>
-repo_url: https://github.com/jmgandarias/ros
-repo_name: jmgandarias/ros
+repo_url: https://github.com/jmgandarias/advanced_robotics.github.io
+repo_name: jmgandarias/advanced_robotics.github.io
 edit_uri: ./edit/main/docs
 
 plugins:
