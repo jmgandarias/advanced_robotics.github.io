@@ -1,5 +1,5 @@
 site_name: "Advance Robotics Course"
-site_url: https://jmgandarias.github.io/ros/
+site_url: https://jmgandarias_teach.github.io/ros/
 site_description: ROS Labs for the COM2009/3009 Robotics Course at The University of Sheffield (and more). 
 theme:
   name: material
